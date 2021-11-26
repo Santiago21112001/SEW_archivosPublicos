@@ -1,0 +1,260 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.699722,
+                    42.340833,
+                    859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "nacimiento",
+                "name": "nacimiento"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.699822,
+                    42.340833,
+                    859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "nacimiento",
+                "name": "nacimiento"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.699922,
+                    42.340833,
+                    859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "nacimiento",
+                "name": "nacimiento"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.699722,
+                    42.340943,
+                    859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "nacimiento",
+                "name": "nacimiento"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.699622,
+                    42.341833,
+                    859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "fallecimiento",
+                "name": "fallecimiento"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.699822,
+                    42.341833,
+                    859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "nacimiento",
+                "name": "nacimiento"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.799723,
+                    42.340833,
+                    859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "fallecimiento",
+                "name": "fallecimiento"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.499722,
+                    42.340833,
+                    859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "nacimiento",
+                "name": "nacimiento"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.699722,
+                    42.240833,
+                    859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "nacimiento",
+                "name": "nacimiento"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.699722,
+                    42.344833,
+                    859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "nacimiento",
+                "name": "nacimiento"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.67732,
+                    43.52931,
+                    3
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "nacimiento",
+                "name": "nacimiento"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.67832,
+                    43.52931,
+                    3
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "nacimiento",
+                "name": "nacimiento"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.67932,
+                    43.52931,
+                    3
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "nacimiento",
+                "name": "nacimiento"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.67632,
+                    43.52931,
+                    3
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "nacimiento",
+                "name": "nacimiento"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.67532,
+                    43.52931,
+                    3
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "nacimiento",
+                "name": "nacimiento"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.67432,
+                    43.52931,
+                    3
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "nacimiento",
+                "name": "nacimiento"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.67332,
+                    43.52931,
+                    3
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "nacimiento",
+                "name": "nacimiento"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
